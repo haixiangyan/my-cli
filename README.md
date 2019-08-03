@@ -4,6 +4,11 @@ Collection of all terminal tools developed by myself.
 ## wtf-cli
 A command tool for looking up abbreviation.
 
+[Github Link](https://github.com/Haixiang6123/wtf-cli)
+[NPM Link](https://www.npmjs.com/package/wtf-cli)
+
+### Screenshot
+
 [![asciicast](https://asciinema.org/a/amfz0RX1BXlJdEqGtdRzmj8Rm.svg)](https://asciinema.org/a/amfz0RX1BXlJdEqGtdRzmj8Rm)
 
 ### Install
@@ -24,6 +29,9 @@ $ wtf wtf
 
 ## thanos-snap-cli
 Randomly delete half of files in current folder.
+
+[Github Link](https://github.com/Haixiang6123/thanos-snap-cli)
+[NPM Link](https://www.npmjs.com/package/thanos-snap-cli)
 
 **Please make sure don't run `snap` under root directory!**
 
@@ -49,6 +57,9 @@ $ snap ./mock   # Snap the finger -> Delete half of the files in ./mock director
 
 ## uci-reg-cli
 A command line tool for querying course information from UCI
+
+[Github Link](https://github.com/Haixiang6123/uci-reg-cli)
+[NPM Link](https://www.npmjs.com/package/uci-reg-cli)
 
 ### Screenshot
 
@@ -81,3 +92,23 @@ $ reg-uci-cli -d "net sys"
 * `-d` Department 
 * `-c` Course number
 * `-t` Year term
+
+## love-you-3000
+A command tool to say "Love you" in 3000 times.
+
+[Github Link](https://github.com/Haixiang6123/love-you-3000)
+[NPM Link](https://www.npmjs.com/package/love-you-3000)
+
+## Install
+
+```
+$ brew install node
+
+$ npm i -g love-you-3000
+```
+
+## Usage
+
+```
+$ love-you-3000
+```
