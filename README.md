@@ -1,4 +1,4 @@
-# awesome-cli-tools
+# awesome-cli
 Collection of all terminal tools developed by myself.
 
 ## wtf-cli
