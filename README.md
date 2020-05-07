@@ -1,6 +1,11 @@
 # awesome-cli
 Collection of all terminal tools developed by myself.
 
+## checkin-1point3acres
+命令行一键签到一亩三分地
+[Github](https://github.com/Haixiang6123/checkin-1point3acres)
+[NPM](https://www.npmjs.com/package/checkin-1point3acres)
+
 ## wtf-cli
 A command tool for looking up abbreviation.
 
