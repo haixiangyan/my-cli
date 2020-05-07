@@ -31,8 +31,8 @@ Randomly delete half of files in current folder.
 ## uci-reg-cli
 A command line tool for querying course information from UCI
 
-[Github Link](https://github.com/Haixiang6123/uci-reg-cli)
-[NPM Link](https://www.npmjs.com/package/uci-reg-cli)
+* [Github Link](https://github.com/Haixiang6123/uci-reg-cli)
+* [NPM Link](https://www.npmjs.com/package/uci-reg-cli)
 
 ### Screenshot
 
