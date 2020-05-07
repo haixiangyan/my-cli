@@ -3,14 +3,14 @@ Collection of all terminal tools developed by myself.
 
 ## checkin-1point3acres
 命令行一键签到一亩三分地
-[Github](https://github.com/Haixiang6123/checkin-1point3acres)
-[NPM](https://www.npmjs.com/package/checkin-1point3acres)
+* [Github](https://github.com/Haixiang6123/checkin-1point3acres)
+* [NPM](https://www.npmjs.com/package/checkin-1point3acres)
 
 ## wtf-cli
 A command tool for looking up abbreviation.
 
-[Github Link](https://github.com/Haixiang6123/wtf-cli)
-[NPM Link](https://www.npmjs.com/package/wtf-cli)
+* [Github Link](https://github.com/Haixiang6123/wtf-cli)
+* [NPM Link](https://www.npmjs.com/package/wtf-cli)
 
 ### Screenshot
 
@@ -19,8 +19,8 @@ A command tool for looking up abbreviation.
 ## thanos-snap-cli
 Randomly delete half of files in current folder.
 
-[Github Link](https://github.com/Haixiang6123/thanos-snap-cli)
-[NPM Link](https://www.npmjs.com/package/thanos-snap-cli)
+* [Github Link](https://github.com/Haixiang6123/thanos-snap-cli)
+* [NPM Link](https://www.npmjs.com/package/thanos-snap-cli)
 
 **Please make sure don't run `snap` under root directory!**
 
@@ -41,5 +41,5 @@ A command line tool for querying course information from UCI
 ## love-you-3000
 A command tool to say "Love you" in 3000 times.
 
-[Github Link](https://github.com/Haixiang6123/love-you-3000)
-[NPM Link](https://www.npmjs.com/package/love-you-3000)
+* [Github Link](https://github.com/Haixiang6123/love-you-3000)
+* [NPM Link](https://www.npmjs.com/package/love-you-3000)
