@@ -16,22 +16,6 @@ A command tool for looking up abbreviation.
 
 [![asciicast](https://asciinema.org/a/amfz0RX1BXlJdEqGtdRzmj8Rm.svg)](https://asciinema.org/a/amfz0RX1BXlJdEqGtdRzmj8Rm)
 
-### Install
-
-```
-$ brew install node
-
-$ npm i -g wtf-cli
-```
-
-### How to use
-
-Example: Look up the meaning of `wtf`.
-
-```
-$ wtf wtf
-```
-
 ## thanos-snap-cli
 Randomly delete half of files in current folder.
 
@@ -70,50 +54,8 @@ A command line tool for querying course information from UCI
 
 [![asciicast](https://asciinema.org/a/LeTrH16cvp6Yq4NlSZY9fOcZP.svg)](https://asciinema.org/a/LeTrH16cvp6Yq4NlSZY9fOcZP)
 
-### Install
-
-```bash
-$ brew install node
-
-$ npm i -g reg-uci-cli
-```
-
-### How to use
-
-Find course EECS 10.
-
-```bash
-$ reg-uci-cli -d eecs -c 10
-```
-
-Find all courses of Networked System department.
-
-```bash
-$ reg-uci-cli -d "net sys"
-```
-
-## Options
-
-* `-d` Department 
-* `-c` Course number
-* `-t` Year term
-
 ## love-you-3000
 A command tool to say "Love you" in 3000 times.
 
 [Github Link](https://github.com/Haixiang6123/love-you-3000)
 [NPM Link](https://www.npmjs.com/package/love-you-3000)
-
-## Install
-
-```
-$ brew install node
-
-$ npm i -g love-you-3000
-```
-
-## Usage
-
-```
-$ love-you-3000
-```
