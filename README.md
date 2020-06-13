@@ -1,5 +1,6 @@
 # awesome-cli
-Collection of all terminal tools developed by myself.
+
+Some awesome cli tools!
 
 ## checkin-1point3acres
 命令行一键签到一亩三分地
